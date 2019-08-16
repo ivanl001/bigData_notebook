@@ -3,6 +3,8 @@ title: 180916-IO文件读写操作01
 tags: java
 ---
 
+#1-outputstream
+
 # IO文件读写操作01: 字节输入输出流
 
 > 本文涉及的代码源文件地址：https://github.com/ivanl001/java_train
